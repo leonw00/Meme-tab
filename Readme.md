@@ -1,0 +1,3 @@
+# Meme tab - Chrome Extension
+
+This tab will allow users to open a new tab without boredom. Imagine that we are in an extremely busy week,  constant projects and papers that needed to be filled. We need to browse the internet for data and research everytime. It can take a toll at our mental health, especially during COVID. With this extension, whenever the user creates a new tab, a meme out of 1000+ memes will appear on the screen. If the meme cracks the user up, it will be a huge boost to their mood, allowing them to be more productive.
