@@ -5,6 +5,9 @@
     "chrome_url_overrides" : {
         "newtab": "memetab.html"
     },
+    "permissions": [
+        "bookmarks"
+    ],
     "content_scripts" : [
         {
             "matches" : ["<all_urls>"],

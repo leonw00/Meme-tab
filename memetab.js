@@ -3,5 +3,8 @@ document.addEventListener('DOMContentLoaded', function (){
     var meme = document.getElementById("meme_img");
     var newString = "memes/meme" + String(randImg) + ".jpeg";
     meme.src = newString;
+
+    
+
 }, false)
 
