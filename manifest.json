@@ -6,7 +6,9 @@
         "newtab": "memetab.html"
     },
     "permissions": [
-        "bookmarks"
+        "tabs",
+        "bookmarks",
+        "history"
     ],
     "content_scripts" : [
         {

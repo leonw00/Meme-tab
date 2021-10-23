@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', function (){
     var newString = "memes/meme" + String(randImg) + ".jpeg";
     meme.src = newString;
 
-    
 
 }, false)
 
