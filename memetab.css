@@ -41,4 +41,9 @@ input[type="text"]{
 	color:#8a97a0;
 	-webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
 	box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+	background-image: url(icons/search.svg);
+    background-position: 15px 50%;
+    background-repeat: no-repeat;
+	background-size: 30px;
+	padding-left: 65px;
 }
