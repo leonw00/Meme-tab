@@ -1,18 +1,14 @@
 {
     "name" : "Meme Tab",
     "version" : "1.0",
-    "manifest_version" : 2,
+    "manifest_version" : 3,
+    "description" : "a meme a tab",
+    "icons" : {"128" : "icons/icon.png"},
     "chrome_url_overrides" : {
         "newtab": "memetab.html"
     },
-    "content_scripts" : [
-        {
-            "matches" : ["<all_urls>"],
-            "js" : ["content.js"]
-        }
-    ],
-    "web_accessible_resources": [
-        "memes/*",
-        "icons/*"
-    ]
+    "web_accessible_resources": [{
+        "resources" : [ "memes/*", "icons/*" ],
+        "matches": ["<all_urls>"]
+    }]
 }
