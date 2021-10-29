@@ -2,7 +2,7 @@
     "name" : "Meme Tab",
     "version" : "1.0",
     "manifest_version" : 3,
-    "description" : "a meme a tab",
+    "description" : "a meme a tab keeps the mood up ahead",
     "icons" : {"128" : "icons/icon.png"},
     "chrome_url_overrides" : {
         "newtab": "memetab.html"
